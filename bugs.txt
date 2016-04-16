@@ -1,6 +1,7 @@
 Tue 29 Mar 2016 06:37:22 PM MSK 
 Clock doesn't work on Moto G2 for some reason. 
-TextEditorX doesn't adapt to screen, need to change color to DeepSkyBlue, checklist adapts though. strange. "SOLUTION: BECAUSE OF THIS-- <meta name="viewport"
-content="width=device-width,
-minimum-scale=1.0, maximum-scale=1.0" />"
 PomodoroTimer doesn't show numbers
+Sat 16 Apr 2016 10:08:54 PM MSK
+Started work on v1.1; best new feature-custom browser.
+ (HTMLviewer) 
+ 
