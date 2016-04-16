@@ -1,0 +1,1 @@
+Adding a web browser, to natively view on android as an app.
