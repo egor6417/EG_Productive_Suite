@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport"
+  content="width=device-width,
+  minimum-scale=1.0, maximum-scale=1.0" />
+  <html manifest="/cache.manifest">
+  <title>Word Counter</title>
+</head>
+<center>
+<body>
+<style>
+  body{
+   font-family: 'Tahoma', sans; 
+        font-weight: bold; 
+        color:seashell;
+        background-color:crimson;
+    position: center;
+    margin-top: 100px;
+}
+  count{
+   font-family: 'Tahoma', sans; 
+        font-weight: bold; 
+        color:seashell;
+        background-color:crimson;
+    position: center;
+}
+</style>
+
+
+</body>
+</html>
+<meta name="viewport"
+  content="width=device-width,
+  minimum-scale=1.0, maximum-scale=1.0" />
+<div class="count">
+<form method="POST" name="wordcount">
+  <script language="JavaScript">
+
+function countit(){
+
+/*Word count script
+By JavaScript Kit (http://javascriptkit.com)
+Over 400+ free scripts here!
+*/
+
+var formcontent=document.wordcount.wordcount2.value
+formcontent=formcontent.split(" ")
+document.wordcount.wordcount3.value=formcontent.length
+}
+</script>
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="100%"><textarea rows="12" name="wordcount2" cols="60" wrap="virtual"></textarea></td>
+    </tr>
+    <tr>
+      <td width="100%"><div align="right"><p><input type="button" value="Calculate"
+      onClick="countit()"> <input type="text" name="wordcount3" size="20"></p>
+      </font></p>
+      </center></div></div></td>
+    </tr>
+  </table>
+</form>
+</div>
+</center>
