@@ -1,0 +1,26 @@
+------------------
+Todo:
+	Logo to index page link
+	If mouse= hover, change front to back jpg\
+	Download button
+	update bot
+	Make Favicon
+	write story, blog
+	redesign pages
+	Nav for tools
+	Follow ius button twitter
+	Replace text edityor twith wordcounter
+	Pomodoro Timer, not tmer
+	readme.md
+	change use online when got domain
+	Read more blog button
+------------------
+Files:
+	Texteditor
+	Clock
+	Clounter
+	Pomodoro Timer
+------------------
+Distribution:
+
+------------------
